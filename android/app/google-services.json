@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997764759872",
+    "project_id": "dicedice-943b4",
+    "storage_bucket": "dicedice-943b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997764759872:android:aab7bcf7d2f5510ea23aa5",
+        "android_client_info": {
+          "package_name": "com.example.dice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRz6oz27OBujTxOfNq84tu3UdKx9QTVHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
